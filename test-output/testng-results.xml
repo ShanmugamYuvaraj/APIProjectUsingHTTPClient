@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1655" started-at="2018-12-11T09:31:44Z" finished-at="2018-12-11T09:31:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1655" started-at="2018-12-11T09:31:44Z" finished-at="2018-12-11T09:31:46Z">
+      <class name="com.qa.tests.DevicesTest">
+        <test-method status="PASS" signature="CreateNewDevices()[pri:0, instance:com.qa.tests.DevicesTest@6d8a00e3]" name="CreateNewDevices" duration-ms="874" started-at="2018-12-11T15:01:44Z" finished-at="2018-12-11T15:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewDevices -->
+        <test-method status="PASS" signature="createCommentForDevice()[pri:0, instance:com.qa.tests.DevicesTest@6d8a00e3]" name="createCommentForDevice" duration-ms="187" started-at="2018-12-11T15:01:45Z" finished-at="2018-12-11T15:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCommentForDevice -->
+        <test-method status="PASS" signature="updateCommentForDevice()[pri:0, instance:com.qa.tests.DevicesTest@6d8a00e3]" name="updateCommentForDevice" duration-ms="188" started-at="2018-12-11T15:01:45Z" finished-at="2018-12-11T15:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCommentForDevice -->
+        <test-method status="PASS" signature="getCreateddevice()[pri:0, instance:com.qa.tests.DevicesTest@6d8a00e3]" name="getCreateddevice" duration-ms="181" started-at="2018-12-11T15:01:45Z" finished-at="2018-12-11T15:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCreateddevice -->
+        <test-method status="PASS" signature="updateCreatedDevice()[pri:0, instance:com.qa.tests.DevicesTest@6d8a00e3]" name="updateCreatedDevice" duration-ms="201" started-at="2018-12-11T15:01:45Z" finished-at="2018-12-11T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCreatedDevice -->
+      </class> <!-- com.qa.tests.DevicesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
